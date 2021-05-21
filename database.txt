@@ -1,0 +1,11 @@
+Auto Usate:
+
+Id - PRIMARY KEY - NOTNULL
+Modello_Auto - VARCHAR(100) - NOTNULL
+Kilometri_fatti - MEDIUMINT - NOTNULL
+Anno - YEAR - NOTNULL
+Cilindrata - SMALLINT - NOTNULL
+Numero_Porte - TINYINT
+Cavalli - SMALLINT
+Foto - VARCHAR(255)
+Prezzo - FLOAT(8,2) - NOTNULL
